@@ -2,6 +2,7 @@ package level1.kakao;
 
 import java.util.*;
 import java.util.stream.*;
+
 public class PrivacyPolicy {
     public int dateToday(String date){
         int year = Integer.parseInt(date.split("\\.")[0]);
