@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 대충 만든 자판
+ */
 import java.util.*;
 
 public class StrangeKeyPad {

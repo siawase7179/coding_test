@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 숫자 짝꿍
+ */
 import java.util.*;
 import java.util.stream.*;
 public class NumberCouple {

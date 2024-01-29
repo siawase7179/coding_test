@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * [PCCE 기출문제] 9번 / 이웃한 칸
+ */
 public class NeighborBox {
     public int solution(String[][] board, int h, int w) {
         int answer = 0;

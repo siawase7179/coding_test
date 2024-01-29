@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 햄버거 만들기
+ */
 import java.util.*;
 public class Hambuger {
     public int solution(int[] ingredient) {

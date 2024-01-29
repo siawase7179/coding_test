@@ -1,4 +1,7 @@
 package level1;
+/**
+ * 체육복
+ */
 import java.util.*;
 public class Greedy {
     /* public int solution(int n, int[] lost, int[] reserve) {

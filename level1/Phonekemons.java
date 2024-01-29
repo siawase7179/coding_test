@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 폰켓몬
+ */
 import java.util.*;
 import java.util.stream.*;;
 public class Phonekemons {

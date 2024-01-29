@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 덧칠하기
+ */
 
 public class Painting {
     public int solution(int n, int m, int[] section) {

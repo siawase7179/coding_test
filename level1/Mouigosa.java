@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 모의고사
+ */
 import java.util.*;
 import java.util.stream.*;
 public class Mouigosa {

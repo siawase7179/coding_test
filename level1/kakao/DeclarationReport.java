@@ -1,5 +1,8 @@
 package level1.kakao;
 
+/**
+ * 2022 KAKAO BLIND RECRUITMENT - 신고 결과 받기
+ */
 import java.util.*;
 import java.util.stream.*;
 

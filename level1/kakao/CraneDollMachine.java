@@ -1,5 +1,8 @@
 package level1.kakao;
 
+/**
+ * 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임
+ */
 import java.util.*;
 public class CraneDollMachine {
     public int solution(int[][] board, int[] moves) {

@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 기사단원의 무기
+ */
 import java.util.*;
 public class GisaDan {
     public int yacksu(int number){

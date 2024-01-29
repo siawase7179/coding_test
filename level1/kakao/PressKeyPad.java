@@ -1,5 +1,8 @@
 package level1.kakao;
 
+/**
+ * 2020 카카오 인턴십 - 키패드 누르기
+ */
 import java.util.*;
 public class PressKeyPad {
     public String solution(int[] numbers, String hand) {

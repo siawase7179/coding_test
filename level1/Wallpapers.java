@@ -1,4 +1,8 @@
 package level1;
+
+/**
+ * 바탕화면 정리
+ */
 import java.util.*;
 
 public class Wallpapers {

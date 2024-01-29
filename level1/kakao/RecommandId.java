@@ -1,5 +1,7 @@
 package level1.kakao;
-
+/**
+ * 2021 KAKAO BLIND RECRUITMENT - 신규 아이디 추천
+ */
 public class RecommandId {
     public static String filterCharacters(String new_id) {
         String regex = "[^0-9a-zA-Z\\-\\_\\.]";

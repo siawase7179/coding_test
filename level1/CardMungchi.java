@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 카드 뭉치
+ */
 import java.util.*;
 
 public class CardMungchi {

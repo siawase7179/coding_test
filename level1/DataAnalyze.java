@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * [PCCE 기출문제] 10번 / 데이터 분석
+ */
 import java.util.*;
 import java.util.stream.*;
 public class DataAnalyze {

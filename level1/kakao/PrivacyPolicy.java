@@ -1,5 +1,8 @@
 package level1.kakao;
 
+/**
+ * 2023 KAKAO BLIND RECRUITMENT - 개인정보 수집 유효기간
+ */
 import java.util.*;
 import java.util.stream.*;
 

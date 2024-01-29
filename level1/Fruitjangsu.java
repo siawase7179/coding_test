@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 과일 장수
+ */
 import java.util.*;
 public class Fruitjangsu {
     public int solution(int k, int m, int[] score) {

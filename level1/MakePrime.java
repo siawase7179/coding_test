@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * Summer/Winter Coding(~2018) - 소수 만들기
+ */
 public class MakePrime {
     public boolean isPrime(int n){
         if (n==1) return false;

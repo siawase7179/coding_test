@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 명예의 전당 (1)
+ */
 import java.util.*;
 public class HallOfFame {
     public int[] solution(int k, int[] score) {

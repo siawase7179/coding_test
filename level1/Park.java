@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 공원 산책
+ */
 import java.util.*;
 
 public class Park {    

@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 추억 점수
+ */
 import java.util.*;
 
 public class MissingPhoto {

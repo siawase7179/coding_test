@@ -1,6 +1,8 @@
 package level1;
 
-
+/**
+ * 옹알이 (2)
+ */
 public class Babbling {
 
     public int solution(String[] babbling) {

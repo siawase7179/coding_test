@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * 2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 로또의 최고 순위와 최저 순위
+ */
 import java.util.*;
 import java.util.stream.*;
 

@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 콜라 문제
+ */
 public class CokeBottle {
     
     public int solution(int a, int b, int n) {

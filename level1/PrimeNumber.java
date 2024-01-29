@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 소수 찾기
+ */
 public class PrimeNumber {
     public boolean isPrime(int n){
         if (n==1) return false;

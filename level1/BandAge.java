@@ -1,5 +1,8 @@
 package level1;
 
+/**
+ * [PCCP 기출문제] 1번 / 붕대 감기
+ */
 import java.util.*;
 import java.util.stream.*;;
 

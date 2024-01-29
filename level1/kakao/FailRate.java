@@ -1,4 +1,8 @@
 package level1.kakao;
+/**
+ * 2019 KAKAO BLIND RECRUITMENT - 실패율
+ */
+
 
 import java.util.*;
 import java.util.stream.*;

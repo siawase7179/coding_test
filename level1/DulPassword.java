@@ -1,5 +1,7 @@
 package level1;
-
+/**
+ * 둘만의 암호
+ */
 import java.util.*;
 public class DulPassword {
     Map<Character, Integer> skipMap = new HashMap<>();

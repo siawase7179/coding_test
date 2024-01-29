@@ -1,7 +1,9 @@
 package level1;
 
+/**
+ * 달리기 경주
+ */
 import java.util.*;
-
 
 public class Maraton {
 

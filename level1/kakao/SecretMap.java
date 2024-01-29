@@ -1,5 +1,7 @@
 package level1.kakao;
-
+/**
+ * 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀지도
+ */
 import java.util.*;
 public class SecretMap {
     public String[] solution(int n, int[] arr1, int[] arr2) {

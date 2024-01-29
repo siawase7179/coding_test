@@ -1,5 +1,8 @@
 package level1.kakao;
 
+/**
+ * 2018 KAKAO BLIND RECRUITMENT - [1차] 다트 게임
+ */
 public class DartGame {
     
     public int solution(String dartResult) {
