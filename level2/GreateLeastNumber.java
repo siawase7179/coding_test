@@ -1,7 +1,9 @@
 package level2;
 
 import java.util.*;
-
+/**
+ * 최댓값과 최솟값
+ */
 public class GreateLeastNumber {
     public String solution(String s) {
         String answer = "";

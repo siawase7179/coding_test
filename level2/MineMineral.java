@@ -1,5 +1,7 @@
 package level2;
-
+/**
+ * 광물 캐기
+ */
 import java.util.*;
 
 public class MineMineral {

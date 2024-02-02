@@ -1,25 +1,13 @@
 package level2;
 
+/**
+ * 2017 팁스타운(짝지어 제거하기)
+ */
 import java.util.*;
 public class MachedRemove {
-    /* public int remove(String s){
-        if (s.length() == 0) return 1;
-
-        for (int i=0; i<s.length()-1; i++){
-            if (s.charAt(i) == s.charAt(i+1)){
-                String old = String.format("%c%c", s.charAt(i), s.charAt(i+1));
-                s = s.replace(old, "");
-                return remove(s);
-            }   
-        }
-        
-        return 0;
-    } */
     public int solution(String s){
         int answer = -1;
-        /* if (s.length() <= 0) return 0;
-        answer = remove(s);     */
-
+ 
         Stack<String> stack = new Stack<>();
         for (String tmp : s.split("")){
             if (stack.size() > 0){

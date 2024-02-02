@@ -1,8 +1,9 @@
 package level2;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+/*
+ * 호텔 대실
+ */
+import java.util.*;
 
 public class RoomReservation {
 

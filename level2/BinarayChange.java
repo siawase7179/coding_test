@@ -1,5 +1,8 @@
 package level2;
 
+/**
+ * 월간 코드 챌린지 시즌1(이진 변환 반복하기)
+ */
 import java.util.*;
 public class BinarayChange {
     int removeCount= 0;

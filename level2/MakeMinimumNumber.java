@@ -1,6 +1,9 @@
 package level2;
 
 import java.util.*;
+/**
+ * 최솟값 만들기
+ */
 public class MakeMinimumNumber {
     
     public int solution(int []A, int []B){

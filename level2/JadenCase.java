@@ -1,4 +1,8 @@
 package level2;
+
+/**
+ * JadenCase 문자열 만들기
+ */
 public class JadenCase {
     public String solution(String s) {
         String answer = "";
